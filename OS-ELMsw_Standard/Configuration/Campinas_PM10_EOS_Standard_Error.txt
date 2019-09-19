@@ -1,0 +1,1 @@
+Mean Accuracy: Accuracy: 0.01193 ± 7e-05 windowSize: 3 - N0: 120 - nHiddenNeurons: 15 - Last accuracy: 0.00853 ± 8e-05

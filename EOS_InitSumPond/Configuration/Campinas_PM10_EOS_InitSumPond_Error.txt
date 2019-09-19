@@ -1,0 +1,1 @@
+Mean Accuracy: Accuracy: 0.01168 ± 1e-05 windowSize: 3 - N0: 120 - trBlock: 60 - nModels: 10 - Last accuracy: 0.00805 ± 4e-05
